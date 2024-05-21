@@ -7,6 +7,13 @@
     "text": "Background images\nYou can choose different background images for title and content slides directly from the presentation toolkit.\nFor the title slide, you will need to replace the link in data-background-image: in _extensions/basdoc/_extension.yml.\nFor content slides, you will need to replace the link in background-image: in _extensions/basdoc/custom.scss"
   },
   {
+    "objectID": "basdoc-site-example.html#content-slides",
+    "href": "basdoc-site-example.html#content-slides",
+    "title": "Minimal Quarto RevealJS Theme",
+    "section": "Content slides",
+    "text": "Content slides\nIf you want to override the global content slide background, you can do so by specifying it in the slide title:\n## Content slides {background-image=https://nercacuk.sharepoint.com/sites/basdigitalwmod-communications/creative%20services%20assets/ppt_page_adelie01.jpg}\nIf you want to override the global content slide background, you can do so by specifying it in the slide title:"
+  },
+  {
     "objectID": "basdoc-site-example.html#general-revealjs-information",
     "href": "basdoc-site-example.html#general-revealjs-information",
     "title": "Minimal Quarto RevealJS Theme",
