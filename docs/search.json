@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "basdoc-site-example.html#background-images",
+    "href": "basdoc-site-example.html#background-images",
+    "title": "Minimal Quarto RevealJS Theme",
+    "section": "Background images",
+    "text": "Background images\nYou can choose different background images for title and content slides directly from the presentation toolkit.\nFor the title slide, you will need to replace the link in data-background-image: in _extensions/basdoc/_extension.yml.\nFor content slides, you will need to replace the link in background-image: in _extensions/basdoc/custom.scss"
+  },
+  {
+    "objectID": "basdoc-site-example.html#general-revealjs-information",
+    "href": "basdoc-site-example.html#general-revealjs-information",
+    "title": "Minimal Quarto RevealJS Theme",
+    "section": "General RevealJS Information",
+    "text": "General RevealJS Information\nYou can learn more about controlling the appearance of RevealJS output here: https://quarto.org/docs/presentations/revealjs/"
+  }
+]
